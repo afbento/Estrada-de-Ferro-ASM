@@ -6,3 +6,5 @@ Compilado com o cross-compiler Z88DK, é necessário fazer ajustes pra ficar com
 Descrição desse jogo no arquivo "como_jogar.png"
 
 Pressionar a tecla SHIFT durante o jogo para aumentar a velocidade dos trens.
+
+https://webmsx.org/?MACHINE=MSX1&rom=https%3A%2F%2Fgithub.com%2Fafbento%2FEstrada-de-Ferro-ASM%2Fraw%2Fmain%2Festferro.rom
